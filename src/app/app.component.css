@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  h1, h2, h3 {
+    margin-top: 0;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 24px;
+    background-color: rgb(63, 63, 242);
+  }
+  h3 {
+    font-size: 20px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  .section {
+    margin-bottom: 40px;
+  }
+  .section-title {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  .section-content {
+    margin-left: 20px;
+  }
+  .contact-info {
+    margin-bottom: 20px;
+  }
+  .contact-info li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  .project {
+    margin-bottom: 20px;
+  }
+  .project-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .project-description {
+    margin-left: 20px;
+  }
+  .skill {
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+  .career-objective {
+    margin-bottom: 20px;
+  }
